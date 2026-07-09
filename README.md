@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MasterMargo "Validator Queen" — «Королева валидаторов»
-- 👀 I’m interested in Blockchain,Stake,Smart Contracts, Solidity, ZHCASH, , DeFi, dApps, Telegram Bots, Automation, Crypto Security
+- 👀 I’m interested in Blockchain,Stake,Smart Contracts, Solidity, ZHCASH, , DeFi, dApps, Telegram Bots, Automation, Crypto Security,Open AI, Claud Cod,Claud Desing, HeyGen,Perplexity, 
 - 🌱 I’m currently learning Advanced Solidity concepts, including gas optimization and secure coding practices
     Integration of smart contracts with Telegram-bots and AI-assistants (e.g., GPT-based bots).
     Cross-chain interoperability (ZHCASH, Ethereum, TRC20/ZRC20).
